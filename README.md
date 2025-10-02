@@ -20,5 +20,5 @@ The dashboard provides insights into sales performance across categories, region
 - Visualizations: Bar charts, KPIs, Slicers, Cards  
 
 ## Author
-- *Deepa Karlapalem**  
+- **Deepa Karlapalem**  
 - deepa.karla01@gmail.com
